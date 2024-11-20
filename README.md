@@ -17,10 +17,10 @@ Pastikan Anda telah menginstal Python3.9 dan PIP.
 
 1. **Kloning repositori:**
    ```bash
-   git clone https://github.com/vonssy/Rats-Kingdom-BOT.git
+   git clone https://github.com/vonssy/RatsKingdom-BOT.git
    ```
    ```bash
-   cd Rats-Kingdom-BOT
+   cd RatsKingdom-BOT
    ```
 
 2. **Instal Requirements:**
